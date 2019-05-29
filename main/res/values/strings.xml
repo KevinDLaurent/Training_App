@@ -1,0 +1,400 @@
+<resources>
+    <string name="app_name">Pump\'n\'Smash</string>
+    <string name="age">Âge:</string>
+    <string name="sexe">Sexe:</string>
+    <string name="male">M</string>
+    <string name="female">F</string>
+    <string name="syst_mesure">Système de Mesure:</string>
+    <string name="imperial">Impérial</string>
+    <string name="metrique">Métrique</string>
+    <string name="taille">Taille:</string>
+    <string name="cm">cm</string>
+    <string name="in">in</string>
+    <string name="poids">Poids:</string>
+    <string name="kg">kg</string>
+    <string name="lb">lb</string>
+    <string name="formulaireIncomplet">Veuillez remplir la / les section(s):</string>
+    <string name="resetOptionsString">Attention toutes vos données seront effacées. Êtes-vous certain de vouloir continuer?</string>
+    <string name="resetApp">Reset APP</string>
+    <string name="oui">Oui</string>
+    <string name="annuler">Annuler</string>
+    <string name="fin_entrainement">Fin Entrainement</string>
+    <string name="description">Description</string>
+    <string name="squat">Squat</string>
+    <string name="fentes_statiques">Fentes Statiques</string>
+    <string name="calf_raise">Calf Raise</string>
+    <string name="leg_extensions">Leg Extensions</string>
+    <string name="hamstring_curls">Hamstring Curls</string>
+    <string name="aucunExerciceEffectue">Vous n\'avez pas faits d\'exercices. Veuillez cocher les exercices que vous avez complétés.</string>
+    <string name="bravo">Bravo!</string>
+    <string name="finEntrainementMusculation">Vous avez soulevé un total de:</string>
+    <string name="semaine">Semaine</string>
+    <string name="mois">Mois</string>
+    <string name="annee">Année</string>
+    <string name="total">total</string>
+    <string name="bras">Bras: \u0020</string>
+    <string name="jambes">Jambes: \u0020</string>
+    <string name="corps">Corps: \u0020</string>
+    <string name="distance">Distance parcourue: \u0020</string>
+    <string name="calories">Calories brûlées: \u0020</string>
+    <string name="nbExerciesCardio">Nombre d\'exercices cardio: \u0020</string>
+    <string name="km">km</string>
+    <string name="mi">mi</string>
+    <string name="exercices_musculation">Exercices Musculation:</string>
+    <string name="periodeSemaine">Stats Semaine</string>
+    <string name="periodeMois">Stats Mois</string>
+    <string name="periodeAnnee">Stats Année</string>
+    <string name="periodeTotal">Stats</string>
+    <string name="pumpnsmash">Pump\'n\'Smash</string>
+    <string name="entrainement_cardio">Entrainement Cardio</string>
+    <string name="entrainement_musculation">Entrainement Musculation</string>
+    <string name="options">Options</string>
+    <string name="statistiques">Statistiques</string>
+    <string name="brasEntraiment">Bras</string>
+    <string name="corpsEntrainement">Corps</string>
+    <string name="jambesEntrainement">Jambes</string>
+    <string name="reset_app">Reset App</string>
+    <string name="textIntroFormulaire">Nous allons vous posez quelques questions afin de mieux vous connaître.</string>
+    <string name="suivant">Suivant</string>
+    <string name="quitter">Quitter</string>
+    <string name="fin">Fin</string>
+
+    <!-- *********************************
+         *                               *
+         *                               *
+         *     Les strings exercices     *
+         *            BRAS               *
+         *                               *
+         *                               *
+         ********************************* -->
+    <string name="curls_a_la_barre_description">
+        Pour augmenter le volume musculaire de vos bras, réalisez ces mouvements au début de votre entraînement de musculation, quand vous avez le plus de force pour prendre lourd !
+        Si vous avez des douleurs au niveau des poignets avec une barre droite, préférez la barre coudée aussi appelée barre EZ pour ne pas traumatiser vos articulations. \n\n
+
+        Comment faire les curls a la barre: \n\n
+        Debout, les pieds parallèles écartés à la largeur des épaules et légèrement tournés vers l\’extérieur. \n \n
+        Tenez une barre à bout de bras devant les cuisses, les mains en supination (paume vers le haut) écartées à peu près à la largeur des épaules. \n \n
+        Inspirez profondément, bloquez votre respiration et montez la barre en fléchissant les coudes. \n \n
+        Lors de la montée de la charge, gardez les coudes fixes et serrées contre le corps. Assurez-vous que vos mains restent dans l\’alignement des avant-bras.\n \n
+        Fléchissez les avant-bras à une cadence modérée. Expirez vers la fin de la flexion. Faites une pause brève en haut du mouvement (quand les mains sont à la hauteur de la partie supérieure des pectoraux).\n \n
+        Descendez la barre en la contrôlant pour revenir à la position de départ, mais n\’allez pas jusqu\’à l\’extension complète des bras. \n \n Effectuez toutes les répétitions.
+        Gardez le buste vertical pendant toute la durée de l\’exercice.</string>
+
+    <string name="curls_halteres_description">
+        Le curl assis incliné avec haltères vous permet de travailler les biceps strictement et sans tricher avec des mouvements de bassin.
+        Comme les autres mouvements de biceps avec haltères, cet exercice est parfait pour réduire les déséquilibres entre deux biceps de tailles différentes. \n\n
+
+        Comment faire les curls halteres:\n\n
+        Installez-vous sur un banc dont le dossier est relevé à environ 45° et contre lequel votre dos devra être plaqué en permanence.\n\n
+        Dans chaque main, tenez un haltère en prise neutre (paumes orientés vers l\’intérieur), les bras tendus et perpendiculaires au sol. \n\n
+        Inspirez et bloquez votre respiration lors de la flexion des avant-bras vers les bras. Gardez les bras fixes, ne les laissez pas osciller vers l\’avant. \n\n
+        Pour bien solliciter les biceps, vous pouvez tourner lentement les poignets vers l’extérieur à mesure que vos avant-bras se rapprochent de l\’horizontale. \n\n
+        En haut du mouvement, les paumes des mains devront être dirigées vers le corps. \n\n
+        Expirez et remettez les mains en position neutre tandis que vous revenez à la position de départ. Faites toutes vos répétitions. \n\n
+        Le corps doit rester stable de façon à ce que ni le buste, les bras ne bougent au cours de la phase de flexion. \n\n
+        Pour que la contraction maximale soit encore plus énergétique, restez en position haute pendant une seconde ou deux en contractant fortement les biceps. \n\n
+    </string>
+
+    <string name="extensions_verticales_description">
+        Le triceps brachial possède trois faisceaux : trois muscles distincts avec un tendon en commun aux deux extrémités.
+        Il recouvre toute la partie arrière du bras. Chaque faisceau est visible quand le muscle est bien développé.
+        La partie interne du triceps, difficile à travailler, est située à l\’arrière et sur le côté interne de la partie supérieure du bras, assez proche du coude.
+        Le faisceau externe du triceps, qui entre en jeu quand la résistance augmente, est situé à l\’arrière et sur le côté externe du bras.
+        La longue portion, située en haut entre le faisceau interne et le faisceau externe, croise à la fois les articulations de l\’épaule et du coude.
+        Elle est plus sollicitée au cours de l\’extension du coude quand on adopte une prise neutre et quand le bras est au-dessus de la tête.
+        L\’anconé est un petit muscle, relativement difficile à voir qui est situé au niveau de l\’articulation du coude et qui joue un rôle prépondérant lors du verrouillage. \n\n
+
+        Comment faire les extensions verticales: \n\n
+        Asseyez-vous sur un banc et gardez le buste droit, les pieds bien à plat sur le sol. \n\n
+        Prenez une barre EZ en pronation (paumes dirigées vers l\’avant). Placez vos mains sur la partie serrée inclinée de la barre de façon à ce que vos pouces soient en dessous de vos petits doigts.\n\n
+        Levez les bras directement au dessus de la tête en gardant le mains dans l\’alignement de vos avant-bras.\n\n
+        Inspirez profondément et maintenez votre souffle en fléchissant vos avant-bras pour descendre la barre derrière vous tout en gardant les coudes pointés vers le haut et le buste droit.\n\n
+        Descendez la barre jusqu\’à ce que vous ressentiez un bon étirement au niveau des triceps, puis remontez-la immédiatement au dessus de la tête.\n\n
+        Expirez quand vous avez passé la partie la plus difficile du mouvement vers le haut ou lorsque vos bras sont complètement tendus. Marquez une pause ou faites contraction maximale et recommencez.\n\n
+        Regardez droit devant vous ou légèrement vers le haut pour maintenir la cambrure normale de votre colonne vertébrale.\n\n
+    </string>
+
+    <string name="kickback_description">
+        Le mouvement de kickback ou extension arrière pour les triceps est capital non seulement pour les bodybuilders en vue de développer et définir la partie postérieure du bras et de l\’épaule, mais aussi pour les pratiquants de nombreux sports.
+        Quand il est exécuté en deux temps, c’est un excellent exercice pour la définition de la longue portion du triceps.
+        Les actions d\’extension de l\’articulation du coude et d\’hyperextension de l\’épaule ainsi que des muscles sollicités sont nécessaires dans toutes les activités qui exigent de pousser vers le bas et l\’arrière et les mouvements pour lancer ou frapper.  \n\n
+
+        Comment faire les kickbacks: \n\n
+        Debout à côté d\’un banc sur lequel vous placerez une main pour soutenir le haut du corps. Votre bras devra être tendu et directement en-dessous de votre épaule. Amenez la jambe inférieure vers l\’avant et déplacez la jambe extérieure vers l\’arrière de façon à pouvoir incliner le buste à l\’horizontale. Certains préfèrent poser la jambe inférieure sur le banc pour soutenir les hanches.\n\n
+        Prenez un haltère en utilisant une prise neutre, pouce vers l\’avant. Gardez le bras le long du corps ou légèrement au-dessus. Fléchissez le coude de façon à ce que votre avant-bras soit vertical.\n\n
+        Inspirez légèrement plus que la normale et retenez votre respiration, puis montez la charge tout en gardant le bras immobile. En haut, le bras tendu devra être dans l\’alignement du buste ou légèrement au-dessus. Expirez en fin d\’extension.\n\n
+        Maintenez la contraction maximale un instant, puis revenez lentement à la position de départ. Marquez une pause brève et recommencez.\n\n
+        Travaillez à vitesse modérée sans lancer l\’haltère vers le haut.\n\n
+        Quand vous avez fait le nombre requis de répétitions avec un bras, changez de côté et recommencez avec l\’autre bras.\n\n
+    </string>
+
+    <string name="tirage_menton_description">
+        Les épaules mettent en valeur tout le corps et donnent de la carrure même habillé.
+        Combinées avec un dos puissant et des pectoraux dessinés, elles constituent un ensemble plaisant à la vue.
+        Il est donc important de bien muscler ses épaules si l\'on souhaite un physique esthétique d\'athlète.\n\n
+
+        L\'important pour les épaules est de muscler les trois faisceaux équitablement, sans en privilégier un en particulier.
+        Si l\'un d\'entre eux accuse un retard de développement, l\’harmonie de l\’ensemble sera lésée.
+        Souvent c\'est le faisceau postérieur qui fait défaut car le faisceau antérieur est souvent trop sollicité.
+        Dans ce cas, il faudra rectifier le tir pour éviter tout soucis.
+        L\'articulation de l\'épaule est complexe et fragile.
+        On devra muscler les deltoïdes mais aussi renforcer la coiffe des rotateurs, des muscles profonds importants qui assurent une bonne stabilité de l\’articulation et protègent des blessures.\n\n
+
+        Comment faire le tirage menton: \n\n
+        Debout, une barre tenue avec une prise en pronation (paume vers le bas) et les mains légèrement plus rapprochées que la largeur des épaules.\n\n
+        Le buste devra être droit, les abdominaux contractés les bras complètement tendus et le regard dirigé vers l\’avant.\n\n
+        Inspirez et maintenez votre respiration en tirant la barre directement vers le haut tout en la gardant près du corps pendant tout l\’exercice. Concentrez-vous sur l\’élévation des coudes et non pas des mains.\n\n
+        Continuez à tirer jusqu\’à ce que vos bras soient à environ 20-30° au-dessus du niveau des épaules, les coudes étant dirigés vers le haut et l’extérieur.\n\n
+        Une fois la position haute atteinte, marquez une pause brève et expirez.\n\n
+        Revenez à la position de départ en contrôlant la barre et recommencez. Utilisez une vitesse d’exécution modérée.\n\n
+    </string>
+
+    <!-- *********************************
+         *                               *
+         *                               *
+         *     Les strings exercices     *
+         *            CORPS              *
+         *                               *
+         *                               *
+         ********************************* -->
+    <string name="developpe_couche_description">
+        Les pectoraux sont souvent avec les bras et les abdominaux la priorité de nombreux pratiquants de musculation.
+        Il est vrai que ces muscles sont esthétiquement importants, mais un développement trop prononcé peut conduire à déformer le buste. \n\n
+
+        Pour d\'autres, ce groupe musculaire peut être très difficile à muscler.
+        Si vous avez des difficultés à prendre des pectoraux avec les exercices basiques comme le développé couché ou les dips, un travail d\’isolation sur les machines ou à la poulie devra être envisagé.
+        Il faudra aussi mettre votre ego de côté car souvent les pratiquants essaient de soulever des charges bien trop lourdes avec une technique affreuse.
+        Et cela au détriment du développement de ce groupe musculaire.\n\n
+
+        Comment faire le développé couché:\n\n
+        Allongé sur un banc horizontal, les fessiers en contact avec le banc, les pieds sur le banc, au sol ou jambes relevées.\n\n
+        Prendre la barre, mains en pronation en prenant un écartement supérieur à la largeur des épaules.\n\n
+        Inspirer et descendre la barre en contrôlant le mouvement jusqu\’à la poitrine.\n\n
+        Développer en expirant en fin d\’effort.\n\n
+    </string>
+
+    <string name="chest_flyes_description">
+        Cet exercice de musculation est un exercice d\'isolation qui permet de travailler la partie supérieure des pectoraux (partie claviculaire).
+        Il minimise l\'intervention des épaules (deltoïde antérieur) et ne sollicite quasi pas les triceps.
+        Généralement, cet exercice de musculation est placé à la fin de la séance de pectoraux comme mouvement de finition après les exercices lourds pour la masse.\n\n
+
+        Comment faire des chest flyes: \n\n
+        Allongé sur un banc étroit pour ne pas gêner les mouvements des épaules, bras tendus ou coudes légèrement fléchis pour soulager l’articulation.\n\n
+        Inspirer, puis écarter les bras jusqu\’à l\’horizontale.\n\n
+        Relever les bras jusqu\’à la verticale en expirant.\n\n
+        Provoquer une petite contraction isométrique en fin de mouvement pour accentuer le travail sur la partie sternale des pectoraux.\n\n
+    </string>
+
+    <string name="pulldown_description">
+        Le dos a besoin d\'autant d\'attention que les pectoraux !
+        Hélas, dans les salles de musculation, le développé couché et les mouvements pour la poitrine ont bien plus de succès que les exercices de tirage ou rowing, entraînant des physiques qui « manquent de dos ».
+        Pourtant, le dos est le plus grand groupe musculaire du torse et ne devrait pas être négligé. \n\n
+
+        Cet exercice est très apprécié par les pratiquants de la musculation pour élargir le haut du dos et pour renforcer les muscles de cette région.
+        En travaillant en amplitude complète, on obtient également une meilleure définition de tous les muscles sollicités. \n\n
+
+        Comment faire les pulldown:\n\n
+        Asseyez-vous sur l\’appareil de façon à ce que la barre soit directement au-dessus de votre tête et devant votre corps. Les pieds bien à plat au sol, réglez la machine de façon à ce que les supports soient calés sur vos cuisses.\n\n
+        Saisissez les parties courbes aux extrémités de la barre, paumes des mains vers l\’avant. Votre dos devra être droit, vos bras seront complètement tendus et vos épaules relevées pour former un grand « Y ». Si vous devez vous lever pour prendre la barre, pensez à la saisir avant de vous asseoir et de commencer.\n\n
+        Gardez le buste droit et vertical en contractant les muscles lombaires.\n\n
+        Pour démarrer le mouvement, inspirez légèrement plus que la normale et tirez vers le bas avec vos bras tout en expirant, le mouvement partant des coudes.\n\n
+        Tirez la barre directement vers le bas devant votre tête et jusqu\’à la hauteur des épaules.\n\n
+        Lors de la descente, gardez les coudes en arrière, pointés vers l\’extérieur et dans le même plan que votre buste.\n\n
+        Maintenez la position basse pendant 1 à 2 secondes, puis revenez à la position de départ en inspirant et en contrôlant la barre.\n\n
+        Marquez une pause brève pour bien ressentir l\’étirement en haut et recommencez.\n\n
+        Assurez-vous que vos bras sont complètement tendus avant et commencez la répétition suivante.\n\n
+    </string>
+
+    <string name="rowing_barre_description">
+        Le rowing barre buste penché est un exercice de musculation polyarticulaire important pour le développement des muscles grand dorsal et des muscles du milieu du dos.
+        Cet exercice permet aussi de travailler la partie postérieure des deltoïdes. \n\n
+
+        Comment faire le rowing barre: \n\n
+        Debout, les pieds espacés d\’une largeur environ égale à celle des épaules, saisissez une barre au sol devant vous avec les mains écartées d\’une largeur supérieure à celle des épaules et les paumes face au corps. Avec les bras tendues, revenez à la position verticale en faisant un soulevé de terre correct.\n\n
+        En gardant les genoux légèrement fléchis, penchez-vous en avant jusqu\’à ce que votre buste soit entre la parallèle et environ 30° au dessus du plan horizontal, la tête relevée. La barre devrait pendre devant votre corps. C\’est la position de départ.\n\n
+        Inspirez et maintenez votre respiration en tirant la barre vers votre taille. Gardez les coudes à l\’intérieur et près du corps de façon à ce qu\’ils se déplacent vers l\’arrière quand vous tirez la barre vers le haut.\n\n
+        Concentrez-vous pour tirer avec les muscles du dos et des épaules et montez les coudes le plus haut possible. En haut, vos coudes devraient être bien au-dessus du niveau de votre dos.\n\n
+        Assurez-vous de contracter vos muscles extenseurs du dos pour essayer de maintenir une cambrure normale de la colonne vertébrale.\n\n
+        Maintenez votre respiration jusqu\’à ce que vous arriviez à la fin du mouvement.\n\n
+    </string>
+
+    <string name="crunch_description">
+        Des abdominaux en béton ne s\'obtiennent pas du jour au lendemain.
+        Cela demande des efforts, de la régularité et différents exercices pour bien muscler le grand droit, les côtés et également les muscles plus profonds. \n\n
+
+        Le crunch sur banc incliné est extrêmement important pour tous ceux qui veulent se muscler les abdos et notamment les pratiquants du bodybuilding qui recherchent un relief musculaire et l\’aspect « écorché » de la sangle abdominale.\n\n
+
+        Comment faire les crunch au banc:\n\n
+        Régler le banc pour que la déclivité soit d\’environ 30 à 40°. Crochetez vos pieds sous les supports.\n\n
+        Allongez-vous sur le dos, les épaules et la tête bien au contact du banc, les mains croisées sur la poitrine ou sur les tempes.\n\n
+        Inspirez et bloquez votre respiration tandis que vous contractez vos abdos pour décoller le buste du banc.\n\n
+        À la force des abdos, remontez le haut du corps jusqu\’à ce qu\’il fasse un angle d’environ 90° avec les hanches. Maintenez cette position un instant tout en expirant, puis redescendez le buste à mi-hauteur seulement.\n\n
+        Veillez à maintenir la tension dans les abdominaux pendant tout l\’exercice. Ne redescendez pas au point que les épaules ou la tête touchent le banc entre les reps.\n\n
+        Dans la position de départ, votre regard sera dirigé vers le plafond; dans la position d\’arrivée, à la fin de la montée, vous regardez devant vous par-dessus vos bras.\n\n
+    </string>
+    <!-- *********************************
+         *                               *
+         *                               *
+         *     Les strings exercices     *
+         *            JAMBES             *
+         *                               *
+         *                               *
+         ********************************* -->
+    <string name="squat_description">
+        La flexion sur jambes, plus connue sous le nom de squat, consiste à effectuer des flexions des membres inférieurs avec une barre chargée reposant sur l\'arrière des épaules.
+        Au départ, la barre repose en hauteur dans un support (appelé parfois une « cage à squat »). Le sportif se place sous la barre et dégage celle-ci de son support.
+        La barre doit reposer en arrière des épaules, sur les trapèzes pour ne pas faire souffrir les vertèbres cervicales (variante dite "barre haute") ou sur les deltoïdes arrières (variante "barre basse").
+        Les mains et les pieds sont espacés d\'au moins la largeur des épaules (les pieds sont souvent "en canard" pour plus de stabilité et surtout pour la santé des articulations).
+        La flexion est ensuite effectuée en prenant soin de garder le buste droit (bassin en antéversion, fesses vers l\'arrière) les règles de la force athlétique exigent que le squat soit fait au moins à la parallèle, en définissant la parallèle comme l\'alignement du genou avec le creux de la hanche le squat complet est lui plus souvent observé en haltérophilie, ou exécuté par d\'autres types de pratiquants de force, avec les ischios-jambiers qui touchent les chevilles.
+        La remontée s\'effectue de la même manière. Lors de l\'utilisation de charges lourdes, le mouvement est exécuté en présence d\'un assistant qui peut aider a la remontée de la barre.\n\n
+
+        Comment faire le squat: \n\n
+        Garde la tête, le cou et le menton dans leurs positions naturelles (ou légèrement relevés) et fixe un point précis, devant toi, à peu près à hauteur des yeux. \n\n
+        Enroule les pouces autour de la barre pour mieux la contrôler : elle devra reposer sur les muscles trapèzes en haut du dos, en dessous de la septième vertèbre cervicale. Il est essentiel d’être à l’aise afin de pouvoir se focaliser sur les sensations et sur l’action des muscles, et non pas sur la barre. Il existe des mousses de confort pour les barres. Mieux vaut apprendre à faire le mouvement sans, car ces mousses peuvent bouger lors du squat et cela peut entraîner un glissement de la barre.\n\n
+        Les épaules doivent être basses, les dorsaux contractés, la poitrine sortie et orientée vers le haut, les coudes dirigés vers le bas. \n\n
+        Les pieds sont bien à plat sur le sol, écartés à peu près de la largeur des épaules, les orteils étant tournés légèrement vers l’extérieur. \n\n
+        Cambre le haut du dos (fesses vers l’arrière), contracte tes abdos et concentre-toi mentalement pendant chaque contraction sur tous les muscles en activité. \n\n
+        Fléchis les genoux et laisse les fessiers reculer de façon à descendre le corps, avec une forte contraction des abdominaux. \n\n
+        Une fois que tes cuisses sont parallèles au sol, inverse le mouvement et pousse énergiquement sur le talons pour revenir à la position de départ.\n\n
+    </string>
+
+    <string name="hamstring_curls_description">
+        Le leg curl unilatéral debout plus connu sous le nom de hamstring curl est important pour augmenter la masse musculaire à l\’arrière de la cuisse.
+        Il est important d\’avoir des ischios puissants pour stabiliser l\’articulation du genou en s\’opposant aux quadriceps à l\’avant de la cuisse.
+        Pour éviter une blessure et offrir le maximum d\’équilibre au niveau de l\’articulation du genou, la force de vos ischios devra être équivalente à celle des quadriceps. \n\n
+
+        Comment faire le hamstring curl : \n\n
+        Debout devant une machine à ischios. Agrippez les poignées ou les supports supérieurs et appuyez la poitrine contre un appui, s\’il en a un. \n\n
+        Placez la cheville contre le manchon. Si possible, réglez le levier de résistance en fonction de la longueur de votre jambe. L\’avant de la cuisse devra reposer contre l\’appui supérieur afin de stabiliser la cuisse, et le genou devra pouvoir être fléchi sans difficulté.\n\n
+        Gardez en permanence la jambe d\’appui droite (celle qui ne travaille pas), mais pas verrouillée, et le pied bien au contact du sol. Le pied de la jambe exercée devra être détendu et maintenu dans une position confortable. \n\n
+        Inspirez profondément et expirez en fléchissant le genou pour soulever le manchon avec le pied. Pliez la jambe jusqu\’à ce que votre tibia soit légèrement plus haut que l\’horizontale. \n\n
+        Maintenez momentanément la position haute, puis redescendez la charge en inspirant. Revenez au départ, mais sans toucher le sol afin de maintenir la tension. Faites une pause dans la position jambe tendue, puis recommencez. \n\n
+        Gardez le buste droit ou légèrement incliné en avant (contre l\’appui pour la poitrine, s\’il y en a un) pendant toute l\’exécution. \n\n
+        Une fois que vous aurez fait toutes les reps d\’un côté, changez de jambe et recommencez. \n\n
+    </string>
+
+    <string name="leg_extension_description">
+        Pour les pratiquants de la musculation, le leg extension à la machine est l\’un des meilleurs exercices pour développer et surtout donner de la définition à la partie antérieure de la cuisse (quadriceps).
+        Cet exercice est également très important en rééducation, notamment avec des charges légères en travaillant en amplitude complète et en maintenant la contraction pendant plusieurs secondes. \n\n
+        Contrairement aux autres exercices, c\’est un mouvement qui ne sollicite qu\’une seule articulation (monoarticulaire) et qui met l\’accent uniquement sur les quadriceps.
+        Vous n\’aurez ici aucune assistance des vos hanches, fessiers ou ischios.
+        En ciblant le quadriceps de cette façon, cela vous permet d\’obtenir un très fort degré d\’intensité localisée (brûlure mortelle).
+        Parce que votre buste est soutenu, cet exercice se prête facilement au travail unilatéral.
+        En travaillant une seule jambe à la fois, vous pouvez amener chaque quadriceps à l\’épuisement total. \n\n
+
+        Comment faire le leg extension : \n\n
+        Assis sur la machine, les deux cuisses bien en contact avec le siège. Placez la partie inférieure des tibias contre les manchons de façon à ce que vos genoux forment un angle de 90° ou plus. \n\n
+        Le dos est droit ou légèrement penché en arrière et en appui contre le dossier. Saisissez les poignées de chaque côté du siège pour assurer votre stabilité. \n\n
+        Inspirez profondément et expirez lors de l\’extension des jambes. Maintenez la contraction 1 ou 2 secondes. \n\n
+        Inspirez en ramenant lentement les tibias pratiquement jusqu\’à la verticale. Recommencez le mouvement en veillant à garder tout le temps la tension dans les muscles. \n\n
+        Pour un développement équilibré, gardez les orteils pointés directement vers l\’avant ou légèrement vers l\’extérieur. \n\n
+        Si vous avez du mal à tendre complètement les jambes, penchez-vous le plus possible en arrière, en particulier si le siège de la machine est incliné. \n\n
+    </string>
+
+    <string name="fentes_statiques_description">
+        L\’intérêt de ce mouvement est qu\’il permet de travailler un grand nombre de muscles au niveau des jambes et de manière unilatérale.
+        On a tendance à considérer les fentes comme un mouvement simple.
+        Cependant, exécuté en amplitude complète, cet exercice est l\’un des plus difficiles.
+        Effectuées correctement, les fentes peuvent développer les quadriceps et renforcer les extenseurs du dos et les lombaires. \n\n
+
+        Comment faire des fentes: \n\n
+        Adoptez une prise d\’une largeur supérieure à celle des épaules et placez vos pieds en parallèle avec un écartement sensiblement égal à largeur des épaules ou des hanches. \n\n
+        Avancez d\’un très grand pas en avant avec une jambe. Quand votre pied avant touche le sol, descendez votre corps.\n\n
+        Gardez votre dos vertical et légèrement cambré. Maintenez le tronc à la verticale en descendant.\n\n
+        La jambe avant doit supporter la majeure partie de la charge et le genou doit être fléchi à 90°. En flexion, le genou arrière doit à peine toucher le sol.\n\n
+        Dans la position de flexion, vous devez ressentir une tension au niveau de la cuisse avant, la hanche et le bas du dos, ainsi qu’un fort étirement des fléchisseurs de la hanche.\n\n
+        Pour vous relever, pousser la charge en arrière pour revenir à la position initiale. Recommencez de l\’autre jambe, faites le nombre de répétitions prévu et pensez à alterner les jambes.\n\n
+    </string>
+
+    <string name="calf_raise_description">
+        Cet exercice de musculation renforce et développe les mollets, plus particulièrement les jumeaux tout au-dessus, du fait de la position james tendues.
+        Les jumeaux sont constitués de fibres lentes et de fibres rapides, il faudra donc les travailler en séries longues et courtes.
+        Il est préférable de commencer sa séance de mollets par les exercices de musculation comme les mollets debout et de finir par les exercices assis. \n\n
+
+        Comment faire les calf raise: \n\n
+        Laissez reposer la barre sur le haut de vos trapèzes.\n\n
+        Placez vos pieds sur la plate-forme de façon à ce que vos talons soient libres de se déplacer en amplitude complète.\n\n
+        Gardez les orteils pointés directement vers l\’avant ou légèrement sur les côtés.\n\n
+        Tendez complètement les jambes et gardez le corps droit de façon à ce que vos pieds, vos hanches et vos épaules soient dans le même alignement.\n\n
+        Descendez vos talons à une vitesse modérée jusqu\’à ce que vous sentiez un fort étirement au niveau du tendon d\’Achille et des muscles de vos mollets.\n\n
+        En atteignant la position basse, inspirez profondément et maintenez votre respiration en poussant vigoureusement pour monter le plus haut possible.\n\n
+        Maintenez la position la plus haute pendant deux secondes.\n\n
+        Relâchez-vous légèrement, redescendez vos talons en contrôlant et expirez.\n\n
+    </string>
+    <string name="curls_a_la_barre">Curls a la barre</string>
+    <string name="curls_halteres">Curls halteres</string>
+    <string name="extensions">Extensions</string>
+    <string name="kickback">Kickback</string>
+    <string name="tirage_menton">Tirage menton</string>
+    <string name="textview">TextView</string>
+    <string name="bench_press">Bench press</string>
+    <string name="chest_flyes">Chest flyes</string>
+    <string name="rowing_barre">Rowing barre</string>
+    <string name="pulldown">Pulldown</string>
+    <string name="crunch_bench">Crunch bench</string>
+    <!-- *********************************
+         *                               *
+         *                               *
+         *     Les strings Entrainement  *
+         *            Cardio             *
+         *                               *
+         ********************************* -->
+    <string name="dist_metrique">sélectionnez la distance (Km):</string>
+    <string name="dist_imperial">sélectionnez la distance (Mi):</string>
+    <string name="vitesse">%.2f</string>
+    <string name="capture">point capturé</string>
+    <string name="vit_km">%.2f Km/h</string>
+    <string name="vit_mi">%.2f Mi/h"</string>
+    <string name="accel">plus vite</string>
+    <string name="ralentir">ralentir</string>
+    <string name="maintenir">maintenir vitesse</string>
+    <string name="calsBurned">Bravo!\n\nVous avez parcourue une distance de\n%1$s.\n\nVous avez brûlé %2$s calories"</string>
+    <string name="notifsOn">Allumé</string>
+    <string name="notifsOff">Éteint</string>
+    <string name="notifications">Notifications:</string>
+    <string name="kmh">Km/h</string>
+    <string name="mih">Mi/h</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
